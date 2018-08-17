@@ -1,7 +1,1 @@
-Edit this file to add a bill of materials
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+One 2' x 4' sheet of 3/4" material will make 2 of these. You need a 24" tall by 18" wide area to cut.
